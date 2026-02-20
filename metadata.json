@@ -1,0 +1,7 @@
+{
+  "description": "Finds clothes near you based on a photo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "name": "App"
+}
